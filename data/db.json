@@ -1,0 +1,24 @@
+{
+  "usersAuth": [],
+  "users": [
+    {
+      "id": "b76a",
+      "name": "Umid pulatov",
+      "last_name": "Marketing",
+      "age": 55,
+      "data": "10/1/2024"
+    }
+  ],
+  "registration": [
+    {
+      "id": "ce5e",
+      "userName": "salom",
+      "password": "salomUmid%%0704%%"
+    },
+    {
+      "id": "c1d3",
+      "userName": "salom",
+      "password": "salomUmid%%0704%%"
+    }
+  ]
+}
